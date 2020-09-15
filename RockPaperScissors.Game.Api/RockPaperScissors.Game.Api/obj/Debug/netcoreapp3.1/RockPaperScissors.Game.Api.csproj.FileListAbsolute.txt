@@ -1,0 +1,64 @@
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.exe
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.csprojAssemblyReference.cache
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.AssemblyInfoInputs.cache
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.AssemblyInfo.cs
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.RazorTargetAssemblyInfo.cache
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\staticwebassets\RockPaperScissors.Game.Api.StaticWebAssets.Manifest.cache
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\staticwebassets\RockPaperScissors.Game.Api.StaticWebAssets.xml
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.csproj.CopyComplete
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.deps.json
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.runtimeconfig.json
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.runtimeconfig.dev.json
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.pdb
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.pdb
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.csproj.CoreCompileInputs.cache
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.pdb
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.genruntimeconfig.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.exe
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.deps.json
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.runtimeconfig.json
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.runtimeconfig.dev.json
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.pdb
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.pdb
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.csprojAssemblyReference.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.AssemblyInfoInputs.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.AssemblyInfo.cs
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.csproj.CoreCompileInputs.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.RazorTargetAssemblyInfo.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.csproj.CopyComplete
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\staticwebassets\RockPaperScissors.Game.Api.StaticWebAssets.Manifest.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\staticwebassets\RockPaperScissors.Game.Api.StaticWebAssets.xml
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.pdb
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Api\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Api.genruntimeconfig.cache

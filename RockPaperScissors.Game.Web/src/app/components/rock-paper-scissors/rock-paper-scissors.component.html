@@ -1,0 +1,44 @@
+<div id="rockPaperScissorsContainer">
+  <div class="row">
+    <div class="col-xs-6">
+      <div class="playerPanel panel panel-default">
+        <div class="panel-heading">
+          <h1 id="playerTitle"><i class="iconMarginRight fa fa-user-circle-o" aria-hidden="true"></i>Player 1</h1>
+          <p id="playerPoints"><span class="label label-primary">Player 1 score: {{rockPaperScissorsGameModel?.playerScore ? rockPaperScissorsGameModel?.playerScore : 0 }}</span></p>
+          <div class="btn-group">
+            <button type="button" class="btn btn-primary pull-left"
+                    *ngFor="let option of playerTypes"
+                    (click)="playerSelectionTypeEvent(option)"
+                    id="{{option.name}}"><i class="iconMarginRight fa fa-hand-{{option.name | lowercase}}-o" aria-hidden="true"></i>{{option.name}}</button>
+          </div>
+        </div>
+        <div class="panel-body">
+          <p id="gameInfo" *ngIf="player1IsHuman"><i class="iconMarginRight fa fa-info-circle" aria-hidden="true"></i>Select your action to start the game:</p>
+          <div class="btn-group" *ngIf="player1IsHuman">
+            <button type="button" class="btn btn-primary pull-left"
+                    *ngFor="let option of playerSelectionOptions"
+                    (click)="playerSelectionEvent(option)"
+                    id="{{option.name}}"><i class="iconMarginRight fa fa-hand-{{option.name | lowercase}}-o" aria-hidden="true"></i>{{option.name}}</button>
+          </div>
+          <h2 id="playerSelection" *ngIf="rockPaperScissorsGameModel?.playerSelection">Player 1 choice: {{rockPaperScissorsGameModel?.playerSelection}}</h2>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-6">
+      <div class="playerPanel panel panel-default">
+        <div class="panel-heading">
+          <h1 id="computerTitle"><i class="iconMarginRight fa fa-user-circle-o" aria-hidden="true"></i>Computer</h1>
+          <p id="computerPoints"><span class="label label-primary">Computer score: {{rockPaperScissorsGameModel?.computerScore ? rockPaperScissorsGameModel?.computerScore : 0 }}</span></p>
+        </div>
+        <div class="panel-body">
+          <h2 id="computerSelection" *ngIf="rockPaperScissorsGameModel?.computerPlayerSelection">Computer choice: {{rockPaperScissorsGameModel?.computerPlayerSelection}}</h2>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12">
+      <div *ngIf="rockPaperScissorsGameModel?.gameResult" class="alert alert-info" role="alert">
+        <h3 id="winner">{{rockPaperScissorsGameModel?.gameResult}}</h3>
+      </div>
+    </div>
+  </div>
+</div>

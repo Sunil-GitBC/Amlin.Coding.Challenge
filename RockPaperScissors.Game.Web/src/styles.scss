@@ -1,0 +1,36 @@
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+@import '../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+@import '../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap-compass.scss';
+
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/fontawesome";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/brands";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/regular";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/solid";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/v4-shims";
+
+#rockPaperScissorsContainer {
+  margin: 50px 0 0 0;
+
+  h1, h2, h3 {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+  .playerPanel {
+    margin: 20px 0 0 0;
+    min-height: 230px;
+  }
+
+  .alert {
+    margin: 20px 0 0 0;
+  }
+
+  .iconMarginRight  {
+    margin-right: 10px;
+  }
+
+  #winner {
+    text-align: center;
+  }
+}

@@ -1,0 +1,18 @@
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Application\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.deps.json
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Application\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.csprojAssemblyReference.cache
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.AssemblyInfoInputs.cache
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.AssemblyInfo.cs
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Application\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.pdb
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.csproj.CoreCompileInputs.cache
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.dll
+D:\.Net Learning\AmLin\Amlin.Coding.Challenge\Amlin.Coding.Challenge\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.pdb
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Application\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.deps.json
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Application\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Application\bin\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.pdb
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.csprojAssemblyReference.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.AssemblyInfoInputs.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.AssemblyInfo.cs
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.csproj.CoreCompileInputs.cache
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.dll
+D:\Amlin.Coding.Challenge\RockPaperScissors.Game.Api\RockPaperScissors.Game.Application\obj\Debug\netcoreapp3.1\RockPaperScissors.Game.Application.pdb
